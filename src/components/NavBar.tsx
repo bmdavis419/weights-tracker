@@ -15,7 +15,7 @@ const NavBar: React.FC = () => {
 
   return (
     <nav className="flex w-full items-center justify-between px-8 py-2">
-      <h3 className="font-bold text-3xl underline">Weights Tracker</h3>
+      <h3 className="font-bold text-3xl underline">Weights Tracker Demo</h3>
       <ul className="flex flex-row space-x-4 items-center align-middle">
         <li className="">
           <a href="/">Home</a>
